@@ -1,0 +1,11 @@
+This repository contains World Happiness Data from 2015 - 2018 and well being data from the World Values surveys collected from 2010 - 2020 (Waves 6 & 7)
+Beyond well-being data, the repository also holds a Google colab file going through the data processing of different developmental indicators such as GDP, GDP per capita, GDP growth, 
+the World Uncertainty Index, the World Trade Uncertainty Index, subjective health data, data on each country's economic freedom and each country's generosity index. 
+
+Cleaned datasets have been sourced from the World Happiness Reports 2015 - 2018, the World Bank, the Generosity Index and the World Values Surveys. 
+
+Please go through the Google Colab file to view steps in data processing. 
+
+x--------------------------------------------------------------------------------x
+
+Happy Data Crunching:)
